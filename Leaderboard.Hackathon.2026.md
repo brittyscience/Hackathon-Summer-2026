@@ -1,41 +1,40 @@
 # Leaderboard for GIDS Biomedical Data Hackathon 2026
 
--   **time stamp:** “21 August, 2026 15:00:39”
-
+-   **time stamp:** “22 August, 2026 15:00:03”
 
 
 | pseudonym                | accuracy |   kappa |
 |:-------------------------|---------:|--------:|
 | Overfit Happens          |   0.9038 |  0.8977 |
-| codex power              |   0.8134 |  0.8015 |
-| Jfeld                    |   0.8120 |  0.8001 |
-| N=4!                     |   0.7980 |  0.7852 |
+| N=4!                     |   0.8116 |  0.7995 |
+| codex power              |   0.8068 |  0.7942 |
 | Biostat Ted              |   0.7806 |  0.7660 |
-| 60hahsm                  |   0.7728 |  0.7577 |
+| Jfeld                    |   0.7798 |  0.7657 |
+| 60hahsm                  |   0.7764 |  0.7615 |
+| Right and Left           |   0.7738 |  0.7586 |
 | Cookie Monster           |   0.7716 |  0.7565 |
-| VHS                      |   0.7688 |  0.7538 |
-| Small Potato Predictions |   0.7666 |  0.7513 |
+| Small Potato Predictions |   0.7710 |  0.7559 |
+| Diversity                |   0.7694 |  0.7541 |
+| VHS                      |   0.7690 |  0.7540 |
 | H-Net                    |   0.7626 |  0.7473 |
 | Apologia                 |   0.7614 |  0.7456 |
-| XDRKAMOA                 |   0.7590 |  0.7431 |
-| JVB2026                  |   0.7506 |  0.7338 |
-| Diversity                |   0.7458 |  0.7289 |
+| Cadenza                  |   0.7588 |  0.7426 |
+| XDRKAMOA                 |   0.7582 |  0.7419 |
+| JVB2026                  |   0.7482 |  0.7316 |
+| Hibbinslings             |   0.7388 |  0.7216 |
 | SelFISHly Altruistic     |   0.7362 |  0.7168 |
 | MGCG                     |   0.7340 |  0.7164 |
 | Pluto                    |   0.7304 |  0.7122 |
+| TinyCoder                |   0.7290 |  0.7096 |
 | Dossier                  |   0.7168 |  0.6972 |
-| Hibbinslings             |   0.6908 |  0.6750 |
 | Vela Pulsar              |   0.6450 |  0.6222 |
-| TinyCoder                |   0.4964 |  0.4645 |
-| Genetic Drifters         |   0.4614 |  0.4305 |
-| Cadenza                  |   0.0560 | -0.0020 |
+| AT                       |   0.4990 |  0.4736 |
+| Genetic Drifters         |   0.4670 |  0.4358 |
+| Hooray                   |   0.0560 | -0.0020 |
 | MF                       |   0.0560 | -0.0020 |
-| Vector                   |   0.0560 | -0.0020 |
 | Spencer                  |   0.0560 | -0.0020 |
-| Right and Left           |   0.0560 | -0.0020 |
 | FLY                      |   0.0560 | -0.0020 |
 | YEAST                    |   0.0560 | -0.0020 |
-| AT                       |   0.0560 | -0.0020 |
 
 ***Scoring:***
 
@@ -67,10 +66,10 @@ Please read instructions carefully.*
 | pseudonym     |
 |:--------------|
 | FIFAboy       |
-| Hooray        |
 | RNA Ranger    |
 | solo_ventures |
 | hihi          |
+| Vector        |
 | Aristocytes   |
 | LeBonBon      |
 | BMJA          |

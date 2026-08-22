@@ -1,5 +1,5 @@
 # University of Rochester Biomedical Data Science Hackathon Summer 2026
-Welcome to the landing page for the hackathon. The hackathon will commence 8/18. It will be a prediction challenge. All predictions should be submitted through GitHub using the captain's handle. Scoring will also happen in GitHub. All details regarding the hackathon will be posted here.  
+Welcome to the landing page for the hackathon. The hackathon has concluded and is now in validation phase. All predictions should be submitted through GitHub using the captain's handle. Scoring will also happen in GitHub. All details regarding the hackathon will be posted here.  
 
  Registration for the event is closed. Please make sure each individual competing on your team is fully registered. Each team needs a captain with a github handle. To receive a prize, you must supply your University of Rochester e-mail address. All teams scoring better than random will receive a participation prize. 1st and 2nd place winning teams in each division will get a cash prize (see below).
  **All team members must submit their own registration form to participate.**  
@@ -28,9 +28,22 @@ However, in order to compete for cash prizes, teams must use their existing mode
 The original test dataset (meta_test.csv and counts_test.csv) will be replaced with a validation dataset with the same name after 3pm on 8/22. We will confirm via e-mail and updated README when the dataset is replaced and you should re-run your code with these validation data. **New predictions (prediction/prediction.csv) on the validation data must be posted by 10 am Sunday morning 8/23**. 
 Winning teams will be confirmed and announced by Monday 8/24.
 
+
 # Prizes
    
 1.  First place in each division: $300 + $75 x (team size)
 2.  Second place in each division: 0 + $50 x (team size)
-  
-If your predictions on the original test dataset beat random guessing, each team member will win a prize. Cash prizes will be determined based on performance on a new dataset.
+
+If your predictions on the original test dataset beat random guessing, each team member will win a prize. Cash prizes will be determined based on performance on a new dataset.  
+
+# Final scoring 
+**Final scores are now posted**
+Congratulations to the following teams on predictions scoring better than random guessing: Overfit Happens,N=4!,codex power,Biostat Ted,Jfeld, 60hahsm,Right and Left,Cookie Monster,Small Potato Predictions,Diversity,VHS,H-Net,Apologia,Cadenza,XDRKAMOA,JVB2026,Hibbinslings,SelFISHly Altruistic,MGCG,Pluto,TinyCoder,Dossier,Vela Pulsar,AT,Genetic Drifters! 
+Every member of these teams will receive a prize! To receive a prize, each individual must be registered for the hackathon using their University of Rochester e-mail. Collection instructions will be circulated soon. 
+
+# Cash prize competition
+To be eligible for a **cash prize**, team captains needed to post their code to Github by 8/22 at 3pm and then use their model to predict on a validation dataset. Although the source data are public, the hackathon challenge is to use the **5000-cell/200-gene training data provided to train your model** for predictions. The [counts](data/meta_counts.csv) and [meta data](data/meta_test.csv) for the validation set are now released. Final predictions for the validation set will be pulled from each team's repository at 10 AM SUNDAY 8/23. Teams may not change code between now and the final validation scoring.   
+
+ Post your predictions for the validation set here: [prediction/prediction.csv](prediction/prediction.csv). Organizers will review top submissions for final determination of cash prizes. Cash prize winners will be invited to present their approach to the hackathon in a meeting this September. Watch your e-mail for announcements.
+
+
